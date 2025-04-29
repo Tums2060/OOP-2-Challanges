@@ -1,8 +1,10 @@
 //Challange 4 was on importing and using the scanner
 
+//imported the scanner
 import java.util.Scanner;
 
 public class Challange4 {
+    //create the object of the scanner
     Scanner s1 = new Scanner(System.in);
 
     public void readNameAndAge(){
