@@ -16,7 +16,7 @@ public class Challange4 {
         System.out.print("Age? ");
         age = s1.nextInt();
 
-        System.out.println("Hello "+name+". You're "+age+" springs yonug");
+        System.out.println("Hello "+name+". You're "+age+" springs young");
 
         
     }
